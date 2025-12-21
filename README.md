@@ -20,12 +20,14 @@ Mean Squared Error (MSE) ≈ 97,569.72
 # 3) ปัจจัยที่มีผลต่อรายได้ (Coefficients)
 เรียงจากมีผลเชิงบวกมาก → น้อย
                     Feature  Coefficient
-        Average_Order_Value   245.180947
-Number_of_Customers_Per_Day     5.572657
-    Marketing_Spend_Per_Day     1.536426
-    Operating_Hours_Per_Day     0.267677
-      Location_Foot_Traffic     0.017338
-        Number_of_Employees    -1.773529
+                    
+- Average_Order_Value   245.180947
+- Number_of_Customers_Per_Day     5.572657
+- Marketing_Spend_Per_Day     1.536426
+- Operating_Hours_Per_Day     0.267677
+- Location_Foot_Traffic     0.017338
+- Number_of_Employees    -1.773529
+        
 | Feature | Coefficient                    |
 | ------- | ------------------------------ |
 | ตัวแปร  | ผลกระทบต่อ Daily Revenue (USD) |
